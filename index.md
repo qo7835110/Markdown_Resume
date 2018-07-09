@@ -1,5 +1,5 @@
 ## 吳峻億履歷
-
+![pic](https://i.imgur.com/K1lNc1s.png)
 
 ### 個人資料
 
