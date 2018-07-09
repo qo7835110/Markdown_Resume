@@ -19,3 +19,8 @@
 希望能夠將前端的技能在加已精進，能從junior--> senior  
 並學習到更多的知識。
 
+### 目前擁有技能
+* HTML、CSS
+* JavaScript
+* JQuery
+### 作品集
