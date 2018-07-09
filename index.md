@@ -25,3 +25,6 @@
 * JQuery
 
 ### 作品集
+* 切版 練習 <https://qo7835110.github.io/project/> 
+* AJAX 練習 <https://qo7835110.github.io/homework/> 
+* JavaScript 練習 <https://qo7835110.github.io/BMI/>
