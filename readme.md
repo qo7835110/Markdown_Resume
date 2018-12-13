@@ -13,7 +13,7 @@
 ### 學習歷程
 
 一直對程式方面感到興趣，在退役後開始在網路上學習，並從前端開始著手，首先是HTML、CSS、JQuery  
-再來開始學習JavaScript，目前則正在學習Vue,js以及RWD。
+再來開始學習JavaScript，目前則正在學習 React、PHP。
 
 ### 未來展望
 希望能夠將前端的技能在加已精進，能從junior--> senior  
@@ -23,8 +23,15 @@
 * HTML、CSS
 * JavaScript
 * JQuery
+* PHP
+* Gulp
+* Webpack
+* React、React-Router
 
 ### 作品集
 * 切版 練習 <https://qo7835110.github.io/project/> 
 * AJAX 練習 <https://qo7835110.github.io/homework/> 
 * JavaScript 練習 <https://qo7835110.github.io/BMI/>
+* PHP 留言板 <http://hulucat.com.tw/board/>
+* React 五子棋 <http://hulucat.com.tw/react5zichi/>
+* React SPA練習 <http://hulucat.com.tw/blog/>
