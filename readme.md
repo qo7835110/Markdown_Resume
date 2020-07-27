@@ -10,9 +10,7 @@
 ### 目前擁有技能
 * HTML、CSS
 * JavaScript
-* JQuery
 * PHP
 * Laravel
-* Webpack
 * React
 
