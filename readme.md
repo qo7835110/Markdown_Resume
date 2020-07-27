@@ -13,4 +13,5 @@
 * PHP
 * Laravel
 * React
-
+* 熟悉 linux 開發、部屬
+* 開發過直播系統
