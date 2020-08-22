@@ -13,12 +13,14 @@
 
 * HTML、CSS
 * JavaScript
+* React 框架
 
 ### 後端
 
 * PHP
-* Laravel
-* React
+* Laravel 框架
+* Python
+* Beautiful Soup 框架
 * 熟悉 linux 開發、部屬
 * 開發過直播網站前後台
 * 有使用過 AWS 、 阿里雲伺服器部屬經驗
